@@ -5,6 +5,7 @@
 //  Created by Gujgiczer Máté on 2018. 11. 09..
 //  Copyright © 2018. gujci. All rights reserved.
 //
+import SwiftyJSON
 
 //MARK: - Private part
 fileprivate extension ContentType {
