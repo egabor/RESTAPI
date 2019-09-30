@@ -17,5 +17,6 @@ Lightweight REST API communicator written in Swift, based on Foundation. An easy
  
   s.ios.deployment_target = '9.3'
   s.source_files = 'RESTAPIImage/**/*.swift'
+  s.dependency = 'RESTAPI'
  
 end
