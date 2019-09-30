@@ -6,8 +6,6 @@
 //  Copyright © 2018. gujci. All rights reserved.
 //
 
-import RESTAPI
-
 public struct JPGUploadMultipartFormData: MultipartFormData {
     
     var image: UIImage
