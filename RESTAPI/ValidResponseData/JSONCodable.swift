@@ -3,7 +3,6 @@
 //
 //  Created by Gujgiczer Máté on 23/03/16.
 //
-import SwiftyJSON
 
 import Foundation
 import SwiftyJSON

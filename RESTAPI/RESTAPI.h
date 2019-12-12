@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <SwiftyJSON/SwiftyJSON.h>
 
 //! Project version number for RESTAPI.
 FOUNDATION_EXPORT double RESTAPIVersionNumber;
